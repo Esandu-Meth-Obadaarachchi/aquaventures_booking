@@ -1,0 +1,96 @@
+/* CheckAvailability.css */
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    background-color: #f5f5f5;
+  }
+  
+  .main_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    min-height: 200px;
+    min-width: 300px;
+    padding: 1rem;
+  }
+  
+  .check_butt {
+    background-color: aqua;
+    color: #000302;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .check_butt:hover {
+    background-color: #000302;
+    color: white;
+  }
+  
+  .text {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #d51a1a;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .book-now {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .book-now[disabled] {
+    background-color: gray;
+    cursor: not-allowed;
+  }
+  
+  /* Media Queries */
+  @media (min-width: 600px) {
+    .main_div {
+      padding: 2rem;
+    }
+  
+    .check_butt, .book-now {
+      font-size: 1.25rem;
+    }
+  
+    .text {
+      font-size: 2rem;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .main_div {
+      padding: 3rem;
+    }
+  
+    .check_butt, .book-now {
+      font-size: 1.5rem;
+    }
+  
+    .text {
+      font-size: 2.5rem;
+    }
+  }
+  
