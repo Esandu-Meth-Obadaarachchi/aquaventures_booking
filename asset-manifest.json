@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aquaventures_booking/static/css/main.e361dfcf.css",
-    "main.js": "/aquaventures_booking/static/js/main.b7c0d77e.js",
+    "main.css": "/aquaventures_booking/static/css/main.f7939914.css",
+    "main.js": "/aquaventures_booking/static/js/main.a4509d4a.js",
     "static/js/453.d855a71b.chunk.js": "/aquaventures_booking/static/js/453.d855a71b.chunk.js",
     "index.html": "/aquaventures_booking/index.html",
-    "main.e361dfcf.css.map": "/aquaventures_booking/static/css/main.e361dfcf.css.map",
-    "main.b7c0d77e.js.map": "/aquaventures_booking/static/js/main.b7c0d77e.js.map",
+    "main.f7939914.css.map": "/aquaventures_booking/static/css/main.f7939914.css.map",
+    "main.a4509d4a.js.map": "/aquaventures_booking/static/js/main.a4509d4a.js.map",
     "453.d855a71b.chunk.js.map": "/aquaventures_booking/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e361dfcf.css",
-    "static/js/main.b7c0d77e.js"
+    "static/css/main.f7939914.css",
+    "static/js/main.a4509d4a.js"
   ]
 }
